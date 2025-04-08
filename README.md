@@ -1,4 +1,5 @@
-![Preview](https://youtu.be/gs2Cc-LWMFo)
+# Demo video
+[![Watch the video](https://youtu.be/gs2Cc-LWMFo)](https://youtu.be/gs2Cc-LWMFo)
 # **Interactive DAG Visualizer**
 
 Hi there! I built this project to help visualize Directed Acyclic Graphs (DAGs) in an interactive way. In this project, I use **JavaScript**, **React**, and **D3.js**. I wanted it to be simple, fun, and interactive – so you can drag nodes and see links update in real time!
